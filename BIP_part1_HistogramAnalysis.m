@@ -1,6 +1,6 @@
 clear; clf; clc;
 
-% Question 1 : Enhance Contrast
+% part 1 : Enhance Contrast
 % analyse the original image
 
 %mri-bright.256
